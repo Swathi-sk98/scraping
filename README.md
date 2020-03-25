@@ -1,1 +1,1 @@
-Install chromedriver an add its path in the code
+Install chromedriver and add its path in the code
